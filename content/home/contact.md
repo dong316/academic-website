@@ -50,7 +50,7 @@ content:
     - icon: weixin
       icon_pack: fab
       name: 'WeChat dwx131212'
-      link: 'https://zoom.com'
+      link: 'https://www.wechat.com/'
 
 design:
   columns: '2'

@@ -35,7 +35,7 @@ experience:
         * Understanding the effects of microbial maturation on pig growth using multi-omics analysis and gnotobiotic mice model
 
   - title: Research assistant
-    company: China Agricultural University
+    company: China Agricultural University, Ministry of Agriculture Feed Industry Centre 
     company_url: ''
     company_logo:
     location: Beijing, China

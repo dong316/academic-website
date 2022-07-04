@@ -7,14 +7,14 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 91
 
 title: Conference
 subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: Jan-02-06
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -38,7 +38,7 @@ experience:
     location: West Lafayette, IN, US
     date_start: '2022-05-09'
     date_end: '2022-05-11'
-    description: Student host (volunteer) for Dr. Greg Caporaso.    
+    description: Student host (volunteer) for Dr. Greg Caporaso,  Poster Presentation    
 
   - title: IBASM meeting
     company: Indiana Branch of the American Society for Microbiology
@@ -47,8 +47,16 @@ experience:
     location: West Lafayette, IN, US
     date_start: '2022-03-11'
     date_end: '2022-03-11'
-    description: Student volunteer for registration.
-    
+    description: Student volunteer for registration
+
+  - title: Feed Industry Innovation Forum
+    company: Youth Pig Club, China Agricultural University
+    company_url: ''
+    company_logo:
+    location: Beijing, China
+    date_start: '2020-08-19'
+    date_end: '2020-08-21'
+    description: Student volunteer for registration    
 
 design:
   columns: '1'
