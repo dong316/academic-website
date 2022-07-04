@@ -4,10 +4,11 @@ abstract:
 # - Equal contribution
 # - Equal contribution
 authors:
+- Nan Zhang, Xiaoming Song,
 - admin
-- Juntao Li, Zhongchao Li, Shuo Zhang, Xiaozhen Li, Chundi Yang, Ling Liu, and Shuai Zhang *
+- Ling Liu, Zhiying Cui, and Yongxi Ma*
 # date: "2013-07-01T00:00:00Z"
-doi: "https://doi.org/10.5713%2Fajas.19.0715"
+doi: "https://doi.org/10.1093/jas/skab369"
 featured: true
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
@@ -15,15 +16,15 @@ image:
   preview_only: false
 # projects:
 # - example
-publication: In *Asian-Australasian Journal of Animal Sciences*
+publication: In *Journal of Animal Science*
 publication_short:
 publication_types:
 - "2"
-publishDate: "2020-11-01T00:00:00Z"
+publishDate: "2021-12-20T00:00:00Z"
 # slides: example
-summary: Physicochemical properties and energy content of yellow dent corn from different climatic origins in growing pigs.
+summary: Nutritional evaluation of fish protein hydrolysate and its application in piglet production.
 tags: []
-title: Physicochemical properties and energy content of yellow dent corn from different climatic origins in growing pigs
+title: Nutritional evaluation of fish protein hydrolysate and its application in piglet production
 # url_code: ""
 # url_dataset: ""
 # url_pdf: ""

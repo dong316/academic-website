@@ -17,7 +17,7 @@ image:
 # projects:
 # - example
 publication: In *Journal of Applied Animal Research*
-publication_short: In *J Appl Anim Res*
+publication_short:
 publication_types:
 - "2"
 publishDate: "2019-03-21T00:00:00Z"

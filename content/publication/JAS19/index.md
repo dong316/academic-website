@@ -4,10 +4,11 @@ abstract:
 # - Equal contribution
 # - Equal contribution
 authors:
+- Jinbiao Zhao, Shouwen Tang, Xingjian Zhou, 
 - admin
-- Juntao Li, Zhongchao Li, Shuo Zhang, Xiaozhen Li, Chundi Yang, Ling Liu, and Shuai Zhang *
+- Shuai Zhang, and Chengfei Huang*
 # date: "2013-07-01T00:00:00Z"
-doi: "https://doi.org/10.5713%2Fajas.19.0715"
+doi: "https://doi.org/10.1093/jas/sky431"
 featured: true
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
@@ -15,15 +16,15 @@ image:
   preview_only: false
 # projects:
 # - example
-publication: In *Asian-Australasian Journal of Animal Sciences*
+publication: In *Journal of Animal Sciences*
 publication_short:
 publication_types:
 - "2"
-publishDate: "2020-11-01T00:00:00Z"
+publishDate: "2018-11-01T00:00:00Z"
 # slides: example
-summary: Physicochemical properties and energy content of yellow dent corn from different climatic origins in growing pigs.
+summary: Determination of chemical composition, energy content, and amino acid digestibility in different wheat cultivars fed to growing pigs.
 tags: []
-title: Physicochemical properties and energy content of yellow dent corn from different climatic origins in growing pigs
+title: Determination of chemical composition, energy content, and amino acid digestibility in different wheat cultivars fed to growing pigs
 # url_code: ""
 # url_dataset: ""
 # url_pdf: ""

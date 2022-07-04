@@ -4,10 +4,11 @@ abstract:
 # - Equal contribution
 # - Equal contribution
 authors:
+- Ruth Eunice Centeno-Martinez,
 - admin
-- Juntao Li, Zhongchao Li, Shuo Zhang, Xiaozhen Li, Chundi Yang, Ling Liu, and Shuai Zhang *
+- Rebecca N. Klopp, Ilkyu Yoon, Jacquelyn P. Boerman, Timothy A. Johnson*
 # date: "2013-07-01T00:00:00Z"
-doi: "https://doi.org/10.5713%2Fajas.19.0715"
+# doi: ""
 featured: true
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
@@ -15,15 +16,15 @@ image:
   preview_only: false
 # projects:
 # - example
-publication: In *Asian-Australasian Journal of Animal Sciences*
+publication: Submitted to *Animal Microbiome*
 publication_short:
 publication_types:
 - "2"
-publishDate: "2020-11-01T00:00:00Z"
+publishDate: "2022-05-20T00:00:00Z"
 # slides: example
-summary: Physicochemical properties and energy content of yellow dent corn from different climatic origins in growing pigs.
+summary: Effects of feeding Saccharomyces cerevisiae fermentation postbiotic on the fecal microbial community of Holstein dairy calves.
 tags: []
-title: Physicochemical properties and energy content of yellow dent corn from different climatic origins in growing pigs
+title: Effects of feeding Saccharomyces cerevisiae fermentation postbiotic on the fecal microbial community of Holstein dairy calves
 # url_code: ""
 # url_dataset: ""
 # url_pdf: ""

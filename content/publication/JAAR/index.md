@@ -16,10 +16,10 @@ image:
 # projects:
 # - example
 publication: In *Journal of Applied Animal Research*
-publication_short: In *J Appl Anim Res*
+publication_short:
 publication_types:
 - "2"
-publishDate: "2019-06-10T00:00:00Z"
+publishDate: "2019-03-21T00:00:00Z"
 # slides: example
 summary: Apparent total tract digestibility of nutrients and the digestible and metabolizable energy values of five unconventional feedstuffs fed to growing pigs.
 tags: []
