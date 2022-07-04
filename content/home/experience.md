@@ -31,7 +31,6 @@ experience:
     date_end: ''
     description: |2-
         Research projects:
-        
         * Individual participant data (IPD) meta-analysis on the dynamical development of the gut microbiome in commercial pigs
         * Understanding the effects of microbial maturation on pig growth using multi-omics analysis and gnotobiotic mice model
 
@@ -51,8 +50,10 @@ experience:
     location: Beijing, China
     date_start: '2018-08-01'
     date_end: '2020-06-30'
-    description:  |2-
-        Thesis title:
+    description:  |3-
+        * Animal nutrition and feed science
+        * Advisor: Dr. Defa Li, Academician of the Chinese Academy of Engineering
+        * Thesis title:
         Comparison on available energy and nutrient digestibility in ingredients between sows and growing pigs
         
   - title: Undergraduate student
@@ -65,5 +66,5 @@ experience:
     description: Major in aquaculture
 
 design:
-  columns: '1'
+  columns: '2'
 ---
