@@ -47,9 +47,9 @@ content:
       icon_pack: fab
       name: Follow Me
       link: 'https://twitter.com/Wenxuan_Dong'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
+    - icon: weixin
+      icon_pack: fab
+      name: 'WeChat dwx131212'
       link: 'https://zoom.com'
 
 design:

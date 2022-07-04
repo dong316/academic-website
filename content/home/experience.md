@@ -22,29 +22,48 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Graduate research assistant
+    company: Purdue University
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo:
+    location: West Lafayette, Indiana, US
+    date_start: '2021-08-15'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Research projects:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Individual participant data (IPD) meta-analysis on the dynamical development of the gut microbiome in commercial pigs
+        * Understanding the effects of microbial maturation on pig growth using multi-omics analysis and gnotobiotic mice model
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research assistant
+    company: China Agricultural University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo:
+    location: Beijing, China
+    date_start: '2020-08-01'
+    date_end: '2021-06-30'
+    description: Evaluate the effects of antibiotic alternatives (yeast culture & seaweed extracts) on the growth performance and gut microbiome on pigs.
+    
+  - title: Master student
+    company: China Agricultural University
+    company_url: ''
+    company_logo:
+    location: Beijing, China
+    date_start: '2018-08-01'
+    date_end: '2020-06-30'
+    description:  |2-
+        Thesis title:
+        Comparison on available energy and nutrient digestibility in ingredients between sows and growing pigs
+        
+  - title: Undergraduate student
+    company: China Agricultural University
+    company_url: ''
+    company_logo:
+    location: Beijing, China
+    date_start: '2013-08-01'
+    date_end: '2017-06-30'
+    description: Major in aquaculture
 
 design:
-  columns: '2'
+  columns: '1'
 ---

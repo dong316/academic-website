@@ -45,4 +45,4 @@ Wenxuan Dong is a graduate student in Animal Microbiome at Purdue University. He
 
 Wenxuan is familiar with 16S rRNA gene sequencing analysis using QIIME2 and R. He is also interested in shot-gun metagenomics and using computational biology tools to elucidate how microbial community works in the gut. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_WenxuanDong.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_WenxuanDong.pdf" "newtab" >}}CV{{< /staticref >}}.

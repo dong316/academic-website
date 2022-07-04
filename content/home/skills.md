@@ -16,18 +16,31 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description: 'Packages I often use: tidyverse, qiime2R, randomForest, phyloseq, vegan, etc.'
     icon: r-project
-    icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+    icon_pack: -fab
+    name: __R__
+  - description: 'I work on HPC with command line under Linux OS.'
+    icon: ai
+    icon_pack: custom
+    name: __Linux__
+  - description: 'I use QIIME2 to analyze the raw sequence data.'
+    icon: ai
+    icon_pack: custom
+    name: __QIIME2__
+  - description: 'I use AI to illustrate figures in my manuscripts.'
+    icon: ai
+    icon_pack: custom
+    name: __Adobe Illustrator__
+  - description: 'Getting Started with basic NumPy and pandas.'
+    icon: ai
+    icon_pack: custom
+    name: __Python__
+  - description: 'Cutadapt, FastQC, kneaddata, fastSpar, MENA, Graphpad, etc.'
+    icon: ai
+    icon_pack: custom
+    name: __Others__
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
