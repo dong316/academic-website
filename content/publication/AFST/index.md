@@ -4,7 +4,7 @@ abstract:
 # - Equal contribution
 # - Equal contribution
 authors:
-- Jinbiao Zhao, Gang Zhang,
+- Jinbiao Zhao, Gang Zhang
 - admin
 - Ling Liu, Junjun Wang, and Shuai Zhang*
 # date: "2013-07-01T00:00:00Z"

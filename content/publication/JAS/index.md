@@ -4,7 +4,7 @@ abstract:
 # - Equal contribution
 # - Equal contribution
 authors:
-- Nan Zhang, Xiaoming Song,
+- Nan Zhang, Xiaoming Song
 - admin
 - Ling Liu, Zhiying Cui, and Yongxi Ma*
 # date: "2013-07-01T00:00:00Z"

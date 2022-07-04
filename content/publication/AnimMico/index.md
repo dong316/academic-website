@@ -4,7 +4,7 @@ abstract:
 # - Equal contribution
 # - Equal contribution
 authors:
-- Ruth Eunice Centeno-Martinez,
+- Ruth E. Centeno-Martinez
 - admin
 - Rebecca N. Klopp, Ilkyu Yoon, Jacquelyn P. Boerman, Timothy A. Johnson*
 # date: "2013-07-01T00:00:00Z"

@@ -6,7 +6,7 @@ author_notes:
 authors:
 - admin
 - Chengfei Huang
-- Fei Xie, Jinbiao Zhao, Zhongchao Li, Yakui Li, Ling Liu, Xiangshu Piao, Bing Dong* , Shuai Zhang*
+- Fei Xie, Jinbiao Zhao, Zhongchao Li, Yakui Li, Ling Liu, Xiangshu Piao, Bing Dong* , and Shuai Zhang*
 # date: "2013-07-01T00:00:00Z"
 doi: "https://doi.org/10.1080/09712119.2019.1592752"
 featured: true

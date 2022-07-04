@@ -66,5 +66,5 @@ experience:
     description: Major in aquaculture
 
 design:
-  columns: '2'
+  columns: '1'
 ---
