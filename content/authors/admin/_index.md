@@ -2,10 +2,10 @@
 bio: 
 education:
   courses:
-  - course: Graduate Research Assistant
+  - course: MS in Animal Microbiome
     institution: Purdue University
-    year: 2021-present
-  - course: MS in Animal Science
+    year: 2023
+  - course: MS in Animal Nutrition
     institution: China Agricultural University
     year: 2020
   - course: BS in Agromony
@@ -14,9 +14,11 @@ education:
 email: "dong316@purdue.edu"
 highlight_name: true
 interests:
+- Microbial Ecology
 - Gut Microbiome
 - Swine Nutrition
-- Data Analysis
+- Machine Learning
+- Systems Biology
 organizations:
 - name: Purdue University
   url: https://www.purdue.edu/
@@ -41,8 +43,8 @@ superuser: true
 title: Wenxuan Dong
 ---
 
-Wenxuan Dong is a graduate student in Animal Microbiome at Purdue University. He works in Dr. Tim Johnson's Lab at the Department of Animal Sciences. His research focuses on the swine gut microbiome development and how it influence the gut health.
+Wenxuan Dong is a graduate student in Animal Microbiome at Purdue University. He works in Dr. Tim Johnson's Lab in the Department of Animal Sciences. His research focuses on the swine gut microbial community succession using 16S rRNA gene sequencing.
 
-Wenxuan is familiar with 16S rRNA gene sequencing analysis using QIIME2 and R. He is also interested in shot-gun metagenomics and using computational biology tools to elucidate how microbial community works in the gut. 
+Wenxuan is familiar with analyzing high-throughput sequencing data using QIIME2 and R. He also has some experience working on HPC with command line under Linux OS. His favorite courses are: Molecular Genetics of Bacteria, Ecological Statistics, Comparative Genomics, and Molecular Microbiome Analysis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_WenxuanDong.pdf" "newtab" >}}CV{{< /staticref >}}.
