@@ -32,7 +32,7 @@ feature:
     icon: ai
     icon_pack: custom
     name: __Adobe Illustrator__
-  - description: 'Getting Started with only basic NumPy and pandas skills.'
+  - description: 'Getting Started with basic NumPy and pandas skills.'
     icon: ai
     icon_pack: custom
     name: __Python__
