@@ -19,7 +19,7 @@ publication: Soon be submitted to *Microbiome*
 publication_short:
 publication_types:
 - "2"
-publishDate: "2022-09-01T00:00:00Z"
+publishDate: "2022-06-01T00:00:00Z"
 # slides: example
 summary: Individual participant data meta-analysis reveals the dynamic development of the gut microbiome in commercial pigs.
 tags: []
