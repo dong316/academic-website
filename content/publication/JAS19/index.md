@@ -4,7 +4,7 @@ abstract:
 # - Equal contribution
 # - Equal contribution
 authors:
-- Jinbiao Zhao, Shouwen Tang, Xingjian Zhou, 
+- Jinbiao Zhao, Shouwen Tang, Xingjian Zhou 
 - admin
 - Shuai Zhang, and Chengfei Huang*
 # date: "2013-07-01T00:00:00Z"
