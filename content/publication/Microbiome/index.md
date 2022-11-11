@@ -15,7 +15,7 @@ image:
   preview_only: false
 # projects:
 # - example
-publication: Soon be submitted to *Microbiome*
+publication: Submitted to *Microbiome*
 publication_short:
 publication_types:
 - "2"
