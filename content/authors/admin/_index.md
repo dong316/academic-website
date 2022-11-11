@@ -45,6 +45,6 @@ title: Wenxuan Dong
 
 Wenxuan Dong is a graduate student in Animal Microbiome at Purdue University. He works in Dr. Tim Johnson's Lab in the Department of Animal Sciences. His research focuses on the swine gut microbial community succession using 16S rRNA gene sequencing.
 
-Wenxuan is familiar with analyzing high-throughput sequencing data using QIIME2 and R. He also has some experience working on HPC with command line under Linux OS. His favorite courses are: Molecular Genetics of Bacteria, Ecological Statistics, Comparative Genomics, and Molecular Microbiome Analysis.
+Wenxuan is familiar with analyzing high-throughput sequencing data using QIIME2 and R. He also has some experience working on HPC with command line under Linux OS. His favorite courses are: Molecular Genetics of Bacteria, Ecological Statistics, Comparative Genomics, Molecular Microbial Ecology, and Molecular Microbiome Analysis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_WenxuanDong.pdf" "newtab" >}}CV{{< /staticref >}}.
