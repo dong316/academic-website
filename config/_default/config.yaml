@@ -1,11 +1,11 @@
-#####theme: "starter-hugo-academic" ##### inactivate try #####
+theme: "starter-hugo-academic" ##### inactivate try #####
 # Configuration of Hugo
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-#####title: Wenxuan Dong # Website name ##### inactivate try #####
-#####baseURL: 'https://wenxuandong.netlify.app/' # Website URL ##### inactivate try #####
+title: Wenxuan Dong # Website name ##### inactivate try #####
+baseURL: 'https://wenxuandong.netlify.app/' # Website URL ##### inactivate try #####
 
 ############################
 ## LANGUAGE
@@ -20,7 +20,7 @@ removePathAccents: true
 ## MODULES
 ############################
 
-#module: ##### inactivate try #####
+module: ##### inactivate try #####
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
